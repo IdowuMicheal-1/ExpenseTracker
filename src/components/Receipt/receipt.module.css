@@ -1,0 +1,130 @@
+
+
+.topNote{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.titleNote{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 0;
+    font-size: 26px;
+}
+
+.receipt{
+    font-weight: 600;
+}
+
+.dateSub{
+    display:flex;
+    justify-content: space-between;
+    margin:0px 50px;
+}
+
+.dateInput{
+    border:0;
+    border-bottom: 1px solid #000000;
+    outline:0;
+}
+
+.received{
+    display: flex;
+    justify-content: space-between;
+}
+
+.subReceived{
+    display: flex;
+    align-items: center;
+    gap:40px;
+}
+
+.subText3{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.business{
+    margin: 0;
+    padding:0;
+}
+
+.amount{
+    display:flex;
+    align-items: center;
+    gap:30px;
+    margin-right: 20px;
+    font-weight: 600;
+}
+.received{
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.receivedf{
+    font-size: 20px;
+}
+
+.amountNumber{
+    border: 1px solid #000000;
+    padding:10px 20px;
+    font-weight: 500;
+}
+
+.amountP{
+    font-weight: 600;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.wordsA{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.thirtyN{
+    margin: 0;
+    border-bottom: 1px solid #000000;
+    width:99%;
+    align-items: center;
+    text-align: center;
+    font-weight: 500;
+}
+
+.thirtyN2{
+    margin: 0;
+    border-bottom: 1px solid #000000;
+    width:99%;
+    align-items: center;
+    text-align: left;
+    font-weight: 500;
+}
+
+.payment{
+    font-size: 18px;
+}
+
+.tellerNote{
+    display:flex;
+    justify-content: space-between;
+    margin:0 10px;
+}
+
+.noC{
+    display: flex;
+    align-items: center;
+    gap:30px;
+}
+
+.acc{
+    border-bottom: 1px solid #000000;
+}
+
+/* .bks{
+    border-bottom: 1px solid #000000;
+
+} */

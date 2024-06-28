@@ -1,0 +1,55 @@
+/* *{
+    font-family: "Inter",Arial, Helvetica, sans-serif;
+} */
+.topExpenseItem{
+    width:80%;
+    margin: auto;
+    background-color: #613DC1;
+    padding: 10px;
+}
+.expenseTop{
+    background-color:#858AE3;
+    display: flex;
+    justify-content: space-between;
+    gap:20px;
+    padding:10px 20px;
+    align-items: center;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px 0px #000000;
+    margin-bottom: 10px;
+    
+
+}
+.date{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.expenseInfo{
+    width:85%;
+    display:flex;
+    justify-content: space-between;
+    /* padding-left: 20px; */
+}
+.expenseTitle{
+    color:#ffffff;
+    font-family: "Inter";
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.expensePrice{
+    display:flex;
+    align-items: center;
+    text-align: center;
+    background-color:#2C0735;
+    border-radius: 8px;
+    width:100px;
+    height:50px;
+    padding:0px 10px;
+    border: 1px solid #ffffff;
+    margin-left: 10px;
+    font-weight: 700;
+    color:#ffffff;
+    justify-content: center;
+}

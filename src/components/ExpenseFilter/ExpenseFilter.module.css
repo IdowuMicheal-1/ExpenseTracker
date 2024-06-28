@@ -1,0 +1,24 @@
+.topFilter{
+    background-color: #613DC1;
+    width:80%;
+    margin: auto;
+    border-radius: 4px;
+    align-items: start;
+    text-align: left;
+    padding: 10px 10px;
+}
+
+.filterY{
+    font-size: 14px;
+}
+
+.subFilter{
+    display: flex;
+    gap:10px;
+}
+
+.selectFit{
+    background-color: #ffffff;
+    border:0;
+    border-radius: 4px;
+}

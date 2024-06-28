@@ -1,0 +1,63 @@
+.inputTitle{
+    padding:5px 10px;
+    border-radius: 8px;
+    outline:none;
+    border:0;
+}
+
+.inputAmount{
+    padding:5px 10px;
+    border-radius: 8px;
+    outline:none;
+    border:0;
+}
+
+.inputDate{
+    padding:5px 10px;
+    border-radius: 8px;
+    outline:none;
+    border:0;
+}
+.formExpense{
+    background-color: #613DC1;
+    padding: 20px 10px;
+    width:80%;
+    border-radius: 8px;
+    margin: auto;
+    margin-bottom: 10px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btnExpense{
+    background-color: #1e065f;
+    border-radius: 8px;
+    border:0;
+    outline: none;
+    padding: 10px 20px;
+    color:#ffffff;
+    width:200px;
+    margin-top:30px;
+    align-items: center;
+    text-align: center;
+    display:flex;
+    justify-content: center;
+}
+
+.divExpense{
+    display: flex;
+    gap:150px;
+}
+
+.labelExpense{
+    font-size: 14px;
+    font-weight: 500;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+
+.divSub{
+    display: flex;
+    flex-direction: column;
+}

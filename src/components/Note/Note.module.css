@@ -1,0 +1,45 @@
+.topNote{
+    margin: 10px;
+}
+
+.date{
+    margin-bottom: 0;
+}
+
+.manager{
+    margin: 0;
+    margin-top: 15px;
+    font-weight: 600;
+}
+
+.transfer{
+    font-weight: 500;
+}
+
+.topNote1{
+    margin-bottom: 20px;
+    display:flex;
+    flex-direction: column;
+    gap:5px;
+}
+
+.lforward{
+    margin-bottom: 10px;
+}
+
+.subject{
+    margin-bottom: 10px;
+}
+
+.tnote{
+    margin-bottom: 20px;
+}
+
+.tre{
+    margin: 0;
+    margin-top: 30px;
+}
+
+.tre1{
+    margin: 0;
+}
